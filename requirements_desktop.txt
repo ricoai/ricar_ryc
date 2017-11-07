@@ -1,0 +1,4 @@
+tensorflow
+h5py
+docopt
+keras
