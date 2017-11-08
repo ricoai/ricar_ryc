@@ -1,4 +1,8 @@
 tensorflow
 h5py
 docopt
-keras
+keras==2.0.8
+numpy
+pillow
+requests
+matplotlib
